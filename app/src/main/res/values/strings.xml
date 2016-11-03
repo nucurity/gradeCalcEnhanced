@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Part2GradeCalc</string>
+    <string name="main_title">Enhanced Grade Calculator</string>
+
+    <string name="btn_min">MIN</string>
+    <string name="btn_avg">AVERAGE</string>
+    <string name="btn_max">MAX</string>
+
+    <string name="about_label">About</string>
+
+    <string name="calc_title">MIN, AVG, MAX</string>
+    <string name="about_title">About</string>
+    
+    <string name="grade_1_text">Grade 1:</string>
+    <string name="grade_2_text">Grade 2:</string>
+    <string name="grade_3_text">Grade 3:</string>
+    <string name="place_text">Place</string>
+
+
+    <string name="about_text">
+        Look into our school for a variety of  IT programs: http://www.humber.ca
+    </string>
+
+</resources>
